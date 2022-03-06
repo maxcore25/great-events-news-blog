@@ -214,8 +214,6 @@ File: Layout CSS
   font-size: 22px;
   text-align: center;
 }
-.split .box .elements li article .icon i::before {
-}
 .split .box .elements li article .icon i::after {
   display: block;
   position: absolute;
@@ -235,13 +233,6 @@ File: Layout CSS
 
 /* Latest
 --------------------------------------------------------------------------------------------------------------- */
-#latest {
-}
-
-#latest ul li {
-}
-#latest ul li:last-child {
-}
 #latest ul li article {
   position: relative;
   max-width: 320px;
